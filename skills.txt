@@ -1,0 +1,9 @@
+Skills:
+  GitBash
+  API testing
+  Dev Tools
+  Codes HTTP
+  Сlient-server arhitecture
+  Mobile testing
+  Postgres database
+

@@ -1,0 +1,6 @@
+
+favorite movie : django unchained
+favorite series : Game of Thrones
+favorite food : lasagna
+favorite time of year : summer
+country_you_would_like_to_visit : iItaly
